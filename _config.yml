@@ -100,9 +100,9 @@ service-worker: true
 friends: [
 {
         title: "大神",
-        href: "oxof.cn"
+        href: "http://oxof.cn"
     },{
         title: "大牛",
-        href: "loseme.top"
+        href: "http://loseme.top"
     }
 ]
