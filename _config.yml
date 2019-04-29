@@ -97,9 +97,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "大牛",
-        href: "loseme.top"
-    }
-]
+
