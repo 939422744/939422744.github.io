@@ -97,4 +97,12 @@ service-worker: true
 
 
 # Friends
-
+friends: [
+{
+        title: "大神",
+        href: "oxof.cn"
+    },{
+        title: "大牛",
+        href: "loseme.top"
+    }
+]
